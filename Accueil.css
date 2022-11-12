@@ -112,11 +112,9 @@
 }
 
 .u-section-2 .u-btn-1 {
-  background-image: none;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   border-style: solid;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin: 25px auto 0;
   padding: 6px 46px 7px 45px;
 }
@@ -150,11 +148,9 @@
 }
 
 .u-section-2 .u-btn-2 {
-  background-image: none;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   border-style: solid;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin: 25px auto 0;
   padding: 6px 46px 7px 45px;
 }
@@ -188,11 +184,9 @@
 }
 
 .u-section-2 .u-btn-3 {
-  background-image: none;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   border-style: solid;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin: 25px auto 0;
   padding: 6px 46px 7px 45px;
 }
@@ -226,11 +220,9 @@
 }
 
 .u-section-2 .u-btn-4 {
-  background-image: none;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   border-style: solid;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin: 25px auto 0;
   padding: 6px 46px 7px 45px;
 }
@@ -264,11 +256,9 @@
 }
 
 .u-section-2 .u-btn-5 {
-  background-image: none;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   border-style: solid;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin: 25px auto 0;
   padding: 6px 46px 7px 45px;
 }
@@ -302,11 +292,9 @@
 }
 
 .u-section-2 .u-btn-6 {
-  background-image: none;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 2px;
   border-style: solid;
+  letter-spacing: 2px;
+  text-transform: uppercase;
   margin: 25px auto 0;
   padding: 6px 46px 7px 45px;
 }
@@ -321,24 +309,48 @@
     height: 225px;
   }
 
+  .u-section-2 .u-btn-1 {
+    font-weight: normal;
+  }
+
   .u-section-2 .u-image-4 {
     height: 225px;
+  }
+
+  .u-section-2 .u-btn-2 {
+    font-weight: normal;
   }
 
   .u-section-2 .u-image-6 {
     height: 225px;
   }
 
+  .u-section-2 .u-btn-3 {
+    font-weight: normal;
+  }
+
   .u-section-2 .u-image-8 {
     height: 225px;
+  }
+
+  .u-section-2 .u-btn-4 {
+    font-weight: normal;
   }
 
   .u-section-2 .u-image-10 {
     height: 225px;
   }
 
+  .u-section-2 .u-btn-5 {
+    font-weight: normal;
+  }
+
   .u-section-2 .u-image-12 {
     height: 225px;
+  }
+
+  .u-section-2 .u-btn-6 {
+    font-weight: normal;
   }
 }
 
